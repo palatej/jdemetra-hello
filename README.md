@@ -34,5 +34,14 @@ The tutorial includes the following examples:
 * HelloDemetra26: canonical decomposition (**ADVANCED**)
 * HelloDemetra27: user-defined regression variables in Tramo-Seats/X12
 * HelloDemetra28: various benchmarking solutions
+* HighFreq1: periodogram on long (daily) series
+* HighFreq2: Ljung-Box test on weekly series
+* HighFreq3: Weekly airline
+* HighFreq4: Trigonometric variables in weekly REGARIMA
+* HighFreq5-6: Weekly UCARIMA
+* HighFreq7: Daily UCARIMA
+* HighFreq8: Daily model with calendar
+* HighFreq10: hourly model
+* HighFreq20-21: STL and LOESS
  
 Be aware that the examples use the current code of the "develop" branch of jdemetra-core
