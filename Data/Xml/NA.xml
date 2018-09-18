@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tsworkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="eu/tstoolkit:core">
+  <timeseries>
+    <tscollection name="P1">
+      <data>
+        <ts name="Agriculture, hunting and forestry (AA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>7341.4 7480.1 7589.8 7534.1 7618 7840.8 7470.9 7720.2 7183.7 7561.2 6939.1 7064.2 7113.1 7077</data>
+          </tsdata>
+        </ts>
+        <ts name="Fish (BB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>144.6 146.3 162.7 154.7 149.7 150 151.5 145.2 168.6 165.5 154.9 146.8 149.8 140.4</data>
+          </tsdata>
+        </ts>
+        <ts name="Metal ores and other mining and quarrying products (CB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>893.2 858.6 969.7 888.7 911.3 905.2 815.7 764.3 765.3 801.5 758.1 801.4 860.9 705.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Food products, beverages and tobacco (DA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>26378.9 25847.8 26426.4 27266.6 26169.6 28062.8 30225.8 28780.8 28654 29074.1 28393.2 29113.3 30863.5 29454.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Textiles and textile products (DB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>8474 8887.1 9608.4 10159.8 9849.5 9169.4 9058.6 8512.5 7840.4 7703.9 6694.1 7214.7 7240 6597.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Leather and leather products (DC) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>415.2 412 373.4 367.9 373.8 328.7 321.6 320 310.6 311.8 256.4 256.7 280.1 286.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Wood and wood products (DD) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>2261.7 2079.9 2220.8 2331.9 2448.4 2677.2 2994.3 3054.9 3309.4 3380.5 3223.6 3440.3 3680.8 3460.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Pulp, paper and paper products; recorded media; printing services (DE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>9316.7 9118 9236 9405.8 10263.9 10703.4 10935.9 10327.1 10456.9 10686.3 10150.8 10424 10745 10023.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Coke, refined petroleum products and nuclear fuel (DF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>21351.8 23006.3 24171 21790.5 21074.8 25954.9 24056.9 22719.9 21349.9 24725.1 34525.5 36894.9 34649.9 34773.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Chemicals, chemical products and man-made fibres (DG) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>23841.9 25362.3 29229 29669.6 30934.4 34355.3 34544.4 34442.7 36336.1 37056.5 34897.2 35961.6 37069.3 37326.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Rubber and plastic products (DH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4624.1 4525.5 4988.6 5389.7 5674.2 5155.3 5215.1 5289 5180.3 5854.1 5746.2 5985.2 6281.6 5841.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Other non metallic mineral products (DI) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>7337.4 7145.2 7413.1 7314.7 7500 7644.5 7938.7 7653.2 7558.7 7676.3 7142.2 7520.7 7771.9 7310.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Basic metals and fabricated metal products (DJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>27273 27120 28858.5 30331.4 31537.8 32612.1 33953 34388.9 34183.7 36099.6 33893.4 37681.6 39292.6 37117.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Machinery and equipment n.e.c. (DK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>8187.9 7993.4 8548.9 9271 9157.8 9858.5 9598.2 8911.2 9382.2 9764.1 9226.7 10042 10655 10571</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical and optical equipment (DL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>8202.7 8196.2 8792.9 9513.8 10457.1 13917.4 13039.7 10788 10371.1 10722.2 9846.3 10109.9 9238.5 9407.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport equipment (DM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>18295.5 18191.2 17836 19461.1 19921.5 20678.1 22917 22110.5 20118.7 21351.3 21136.5 21660.6 21144.5 20759.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Other manufactured goods n.e.c. (DN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5983.8 5542 5499.7 5594.3 5547 6764.8 6888.7 6260.6 6108.8 6393.7 5926.8 6204.6 6014.8 5633.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical energy, gas, steam and hot water (EE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>11428.1 12456.3 12657.8 12604.4 12491.9 12315.9 12258 12077.3 11716.8 11926.4 12419.4 12492.1 12532.9 11802.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Construction work (FF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>36780.3 35965.7 38737.8 38588.4 41276.5 43031.1 43514.1 42452.6 43040.8 45293.9 46126.4 50822.8 51453.7 51164.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Wholesale and retail trade services; repair services of motor vehicles, motorcycles and personal and houdehold goods (GG ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>61943.2 60779.3 62212.2 71307.1 77018.6 73168.9 74794.8 77038.5 75959.8 77797 77641.8 77372.1 79801.6 81250.8</data>
+          </tsdata>
+        </ts>
+        <ts name="Hotel and restaurant services (HH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>9539 9707.5 9935.2 10403.2 10604.6 11562.2 11555 11507.3 11700.7 11856.7 11909.4 12182.3 12621.4 12578.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport, storage and communication services (II) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>42057.3 42844.6 46055.1 51091.1 53871.1 54858.3 57892.9 55025.9 56383.5 57562.7 61395.3 62743.9 64517.7 65908.8</data>
+          </tsdata>
+        </ts>
+        <ts name="Financial intermediation services (JJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>21210.8 22518.9 23929.2 25889.9 27799.4 29486 29412 30642.9 29824.3 31136.5 32653.6 35042.6 35976.9 35676.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Real estate, renting and business services (KK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>75938.3 80022.7 88085.6 92620.3 96491.2 94750.8 101909.3 101870.5 103867.5 108244.6 115233.9 120407.3 126209 132105.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Public administration and defence services, compulsory social security services (LL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>22220.4 22438.3 22770.2 23182.2 24176.5 25102.3 25640.7 26793.9 27256.4 27710.8 27923.5 28139.8 28849.6 29758.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Education services (MM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>20151 20122.3 20204.2 20355.4 20489 20685.7 20834.8 21027.2 21332.8 21412.7 21432.3 21700.4 21858.4 22073.8</data>
+          </tsdata>
+        </ts>
+        <ts name="Health and social services (NN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>24889.4 26015.3 26453.9 27286.3 28109.2 29658.7 30822.1 31338 31443.8 32039.4 32643 32807.8 33820.6 35028.4</data>
+          </tsdata>
+        </ts>
+        <ts name="Other community, social and personal services (OO) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>12594.3 12581.5 12816.3 13186 14122.4 15049.8 15113.1 14166.2 14472.1 14979.5 15559.9 16165.7 16795.9 17264.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Private households with employed persons (PP) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>605.4 619.4 619.3 621.3 615 633.6 655.2 678.6 684.8 716.2 690.5 604.8 529.6 512.1</data>
+          </tsdata>
+        </ts>
+      </data>
+    </tscollection>
+    <tscollection name="P2">
+      <data>
+        <ts name="Agriculture, hunting and forestry (AA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4949.9 5111.3 5147.6 4976.8 4961.5 5057 4854.6 4979.2 4660.7 4899 4625.9 4500.8 4579.1 4539.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Fish (BB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>76.5 79.4 90.6 84.4 84.1 88.1 83.7 81.3 94.7 94.4 88.3 85.1 87.9 80.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Metal ores and other mining and quarrying products (CB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>582.7 571.3 656.2 606.8 628.8 615.8 563.1 522.9 523.5 554.6 478.4 490.2 539.9 389.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Food products, beverages and tobacco (DA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>20970.4 20355.8 20822.6 21661 20610.5 22886.1 24982.7 23374.8 23101 23354.3 22631.4 23162.2 24495.2 23093</data>
+          </tsdata>
+        </ts>
+        <ts name="Textiles and textile products (DB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6892.5 7126 7623.5 8040.8 7802 7293 7178.6 6637.8 6131.8 5983.9 5042 5470.7 5370.1 4766.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Leather and leather products (DC) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>284.8 285.4 258.5 254.5 260.8 230.6 228 228.6 223.9 227.3 171.9 172.2 191.1 193.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Wood and wood products (DD) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>1650.5 1522.6 1624.3 1701.4 1761.2 1935.4 2177 2226.7 2416.3 2453.7 2337.2 2506.7 2689.8 2514.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Pulp, paper and paper products; recorded media; printing services (DE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6433.5 6330.6 6345.2 6541.1 7336.9 7732.6 7914.7 7330.6 7390.8 7444.5 6864.1 6992.4 7173.3 6501.4</data>
+          </tsdata>
+        </ts>
+        <ts name="Coke, refined petroleum products and nuclear fuel (DF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>18228.7 20015.9 21499.2 19735.4 19764.7 24736.2 23181.1 21644.9 20090.9 23364.9 32731.6 35164.8 32460 32577</data>
+          </tsdata>
+        </ts>
+        <ts name="Chemicals, chemical products and man-made fibres (DG) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>16849.7 17843.6 20813.8 21218.7 22429.7 25288.9 25472.4 25160 27219.5 27427.6 25434.4 26690.1 27834.1 28054.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Rubber and plastic products (DH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>3520.1 3473.5 3874.8 4230.8 4464.5 3864.9 3892.9 3919.1 3758 4252.8 3986.1 4161.5 4224 3790.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Other non metallic mineral products (DI) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4626.8 4551.8 4755.5 4729.3 4930.3 5093.2 5298.5 5045.8 5038.6 5153.3 4663.4 5050.4 5286.1 4839.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Basic metals and fabricated metal products (DJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>20725.4 20703.6 21954.2 23058.4 24015.2 24797.3 26016.5 26418.1 26428.1 28013.8 26438 30138.3 31025.7 28818.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Machinery and equipment n.e.c. (DK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5820.8 5585.3 5944.8 6400.8 6351.9 6684.2 6561.2 6000.5 6497.5 6822.9 6143 6717.2 7087.8 6986</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical and optical equipment (DL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5511.9 5477.8 5824.9 6436.9 7080.4 9867.7 9200.9 7280 6973 7284.8 6458.9 6694.1 5930.4 6053.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport equipment (DM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>15109.6 14828.5 14333.6 15579.9 16147.6 16808.7 18858.8 18090.7 16262.7 17472.2 16920.8 17952 17890.6 17603.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Other manufactured goods n.e.c. (DN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4539.5 4133.8 4103.1 4161.8 4144.3 5083 5154 4684.3 4621 4851.8 4448.5 4782.6 4560.6 4224.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical energy, gas, steam and hot water (EE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6975.3 7527 7188.3 7198.2 6800.2 5926.1 6006.9 5946.2 5567.6 5970.5 6768.3 6236.8 6271.3 5672</data>
+          </tsdata>
+        </ts>
+        <ts name="Construction work (FF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>24888.4 24477.8 26751.6 26708.7 28954.8 29979.4 30324 29454 29958 31695.1 32049.8 35544.7 35826.7 35553.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Wholesale and retail trade services; repair services of motor vehicles, motorcycles and personal and houdehold goods (GG ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>29544.3 29148.9 30328.5 39970.2 44659.2 41653.7 42107 43014 40433.9 40866 41847.8 41118.5 40940.5 42584</data>
+          </tsdata>
+        </ts>
+        <ts name="Hotel and restaurant services (HH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5025.7 5268.4 5485.1 5850.7 6106.2 6855.4 6926 6931.1 7036.5 7193.5 7205.4 7435.1 7765.7 7761.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport, storage and communication services (II) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>22544.6 23866.6 26480.5 30433.8 32560.3 32607.9 34853.3 31965.6 32763.2 34062 37035.5 38306.2 39834.4 40583.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Financial intermediation services (JJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>11213.2 11887.5 12674.5 14165.6 14800.5 16138 16170.3 15881.8 15971.8 16033.6 17121.2 18234.3 19371.2 19315.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Real estate, renting and business services (KK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>30056.2 32399.2 38031.8 40772.6 42435.9 38332.1 43903.3 43293.5 43965.3 46849.8 50276.8 52977.7 55768.1 58796.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Public administration and defence services, compulsory social security services (LL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5028.8 4981.8 5262.8 5537.4 5904.6 6236.7 6684 7249.4 7360.6 7541 7259.9 7144 7633.2 8198.8</data>
+          </tsdata>
+        </ts>
+        <ts name="Education services (MM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>1715.5 1855.3 1900.6 2003.8 2087.7 2077.8 2142.5 2288.7 2444.6 2360.3 2335.8 2467.8 2602 2644.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Health and social services (NN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>9802.1 10421 10464.9 10309.4 10107.6 10618.1 11320.4 11700.5 11725.5 11989.8 12435.6 12711.6 13048.6 13737.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Other community, social and personal services (OO) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6010.4 6314.7 6368.4 6482 7166.5 7804.4 8058.8 7667.9 7866.6 8177.8 8453.9 8765.2 9268.2 9608.9</data>
+          </tsdata>
+        </ts>
+      </data>
+    </tscollection>
+    <tscollection name="B1g">
+      <data>
+        <ts name="Agriculture, hunting and forestry (AA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4949.9 5111.3 5147.6 4976.8 4961.5 5057 4854.6 4979.2 4660.7 4899 4625.9 4500.8 4579.1 4539.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Fish (BB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>76.5 79.4 90.6 84.4 84.1 88.1 83.7 81.3 94.7 94.4 88.3 85.1 87.9 80.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Metal ores and other mining and quarrying products (CB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>582.7 571.3 656.2 606.8 628.8 615.8 563.1 522.9 523.5 554.6 478.4 490.2 539.9 389.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Food products, beverages and tobacco (DA) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>20970.4 20355.8 20822.6 21661 20610.5 22886.1 24982.7 23374.8 23101 23354.3 22631.4 23162.2 24495.2 23093</data>
+          </tsdata>
+        </ts>
+        <ts name="Textiles and textile products (DB) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6892.5 7126 7623.5 8040.8 7802 7293 7178.6 6637.8 6131.8 5983.9 5042 5470.7 5370.1 4766.9</data>
+          </tsdata>
+        </ts>
+        <ts name="Leather and leather products (DC) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>284.8 285.4 258.5 254.5 260.8 230.6 228 228.6 223.9 227.3 171.9 172.2 191.1 193.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Wood and wood products (DD) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>1650.5 1522.6 1624.3 1701.4 1761.2 1935.4 2177 2226.7 2416.3 2453.7 2337.2 2506.7 2689.8 2514.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Pulp, paper and paper products; recorded media; printing services (DE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6433.5 6330.6 6345.2 6541.1 7336.9 7732.6 7914.7 7330.6 7390.8 7444.5 6864.1 6992.4 7173.3 6501.4</data>
+          </tsdata>
+        </ts>
+        <ts name="Coke, refined petroleum products and nuclear fuel (DF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>18228.7 20015.9 21499.2 19735.4 19764.7 24736.2 23181.1 21644.9 20090.9 23364.9 32731.6 35164.8 32460 32577</data>
+          </tsdata>
+        </ts>
+        <ts name="Chemicals, chemical products and man-made fibres (DG) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>16849.7 17843.6 20813.8 21218.7 22429.7 25288.9 25472.4 25160 27219.5 27427.6 25434.4 26690.1 27834.1 28054.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Rubber and plastic products (DH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>3520.1 3473.5 3874.8 4230.8 4464.5 3864.9 3892.9 3919.1 3758 4252.8 3986.1 4161.5 4224 3790.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Other non metallic mineral products (DI) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4626.8 4551.8 4755.5 4729.3 4930.3 5093.2 5298.5 5045.8 5038.6 5153.3 4663.4 5050.4 5286.1 4839.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Basic metals and fabricated metal products (DJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>20725.4 20703.6 21954.2 23058.4 24015.2 24797.3 26016.5 26418.1 26428.1 28013.8 26438 30138.3 31025.7 28818.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Machinery and equipment n.e.c. (DK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5820.8 5585.3 5944.8 6400.8 6351.9 6684.2 6561.2 6000.5 6497.5 6822.9 6143 6717.2 7087.8 6986</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical and optical equipment (DL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5511.9 5477.8 5824.9 6436.9 7080.4 9867.7 9200.9 7280 6973 7284.8 6458.9 6694.1 5930.4 6053.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport equipment (DM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>15109.6 14828.5 14333.6 15579.9 16147.6 16808.7 18858.8 18090.7 16262.7 17472.2 16920.8 17952 17890.6 17603.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Other manufactured goods n.e.c. (DN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>4539.5 4133.8 4103.1 4161.8 4144.3 5083 5154 4684.3 4621 4851.8 4448.5 4782.6 4560.6 4224.2</data>
+          </tsdata>
+        </ts>
+        <ts name="Electrical energy, gas, steam and hot water (EE) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6975.3 7527 7188.3 7198.2 6800.2 5926.1 6006.9 5946.2 5567.6 5970.5 6768.3 6236.8 6271.3 5672</data>
+          </tsdata>
+        </ts>
+        <ts name="Construction work (FF) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>24888.4 24477.8 26751.6 26708.7 28954.8 29979.4 30324 29454 29958 31695.1 32049.8 35544.7 35826.7 35553.3</data>
+          </tsdata>
+        </ts>
+        <ts name="Wholesale and retail trade services; repair services of motor vehicles, motorcycles and personal and houdehold goods (GG ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>29544.3 29148.9 30328.5 39970.2 44659.2 41653.7 42107 43014 40433.9 40866 41847.8 41118.5 40940.5 42584</data>
+          </tsdata>
+        </ts>
+        <ts name="Hotel and restaurant services (HH) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5025.7 5268.4 5485.1 5850.7 6106.2 6855.4 6926 6931.1 7036.5 7193.5 7205.4 7435.1 7765.7 7761.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Transport, storage and communication services (II) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>22544.6 23866.6 26480.5 30433.8 32560.3 32607.9 34853.3 31965.6 32763.2 34062 37035.5 38306.2 39834.4 40583.7</data>
+          </tsdata>
+        </ts>
+        <ts name="Financial intermediation services (JJ) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>11213.2 11887.5 12674.5 14165.6 14800.5 16138 16170.3 15881.8 15971.8 16033.6 17121.2 18234.3 19371.2 19315.6</data>
+          </tsdata>
+        </ts>
+        <ts name="Real estate, renting and business services (KK) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>30056.2 32399.2 38031.8 40772.6 42435.9 38332.1 43903.3 43293.5 43965.3 46849.8 50276.8 52977.7 55768.1 58796.5</data>
+          </tsdata>
+        </ts>
+        <ts name="Public administration and defence services, compulsory social security services (LL) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>5028.8 4981.8 5262.8 5537.4 5904.6 6236.7 6684 7249.4 7360.6 7541 7259.9 7144 7633.2 8198.8</data>
+          </tsdata>
+        </ts>
+        <ts name="Education services (MM) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>1715.5 1855.3 1900.6 2003.8 2087.7 2077.8 2142.5 2288.7 2444.6 2360.3 2335.8 2467.8 2602 2644.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Health and social services (NN) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>9802.1 10421 10464.9 10309.4 10107.6 10618.1 11320.4 11700.5 11725.5 11989.8 12435.6 12711.6 13048.6 13737.1</data>
+          </tsdata>
+        </ts>
+        <ts name="Other community, social and personal services (OO) ">
+          <tsdata pstart="1" ystart="1995" freq="1">
+            <data>6010.4 6314.7 6368.4 6482 7166.5 7804.4 8058.8 7667.9 7866.6 8177.8 8453.9 8765.2 9268.2 9608.9</data>
+          </tsdata>
+        </ts>
+      </data>
+    </tscollection>
+  </timeseries>
+</tsworkspace>
